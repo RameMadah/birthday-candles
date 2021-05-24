@@ -7,7 +7,9 @@ public class App {
 
   public static void main(String[] args) {
     // 5 ist die höchste Zahl (Kerze) und kommt 2 Mal vor.
-    List<Integer> birthdayCakeCandles = Arrays.asList(3, 2, 3, 1, 3, 5, 4, 5);
+    CakeCandles cake = new CakeCandles(Arrays.asList(3,8, 34,45,67, 5,66, 4,88));
+    CakeCandles cake2 = new CakeCandles(Arrays.asList(3, 2, 3, 1, 3, 5, 4, 5,6,8,3,9,6));
+    CakeCandles birthdayCakeCandles =new CakeCandles(Arrays.asList(3, 2, 3, 1, 3, 5, 4, 5)) ;
     // TODO: Rufen Sie hier Ihre Methode auf
   }
 }
