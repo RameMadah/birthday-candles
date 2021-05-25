@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="de.htwberlin.CakeCandlesTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-25T17:02:44" hostname="LAPTOP-I3JIGTOI" time="0.091">
+  <properties/>
+  <testcase name="cakeCounter()" classname="de.htwberlin.CakeCandlesTest" time="0.065"/>
+  <testcase name="cakeCounterTwo()" classname="de.htwberlin.CakeCandlesTest" time="0.004"/>
+  <testcase name="cakeTest()" classname="de.htwberlin.CakeCandlesTest" time="0.014"/>
+  <testcase name="cakeTestTwo()" classname="de.htwberlin.CakeCandlesTest" time="0.003"/>
+  <system-out><![CDATA[******************
+88
+67
+66
+******************
+******************
+88
+67
+66
+1
+number of longest candles are 1 and they are 88cm long
+******************
+5
+4
+3
+******************
+******************
+5
+4
+3
+2
+number of longest candles are 2 and they are 5cm long
+******************
+5
+4
+3
+******************
+******************
+88
+67
+66
+******************
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
